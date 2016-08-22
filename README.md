@@ -1,2 +1,3 @@
-# capacity-planning
-VM capacity planning spreadsheet
+This is an Excel spreadsheet I created to simplify VM capacity calculations and planning at my day job, without requiring expensive commercial products or tools only available to partners. This was developed during a new cluster design project, after about the 4th time I had to re-run my capacity numbers based on different scenarios.
+
+The intent is to assist with analyzing your current capacity and provisioning levels, as well as assist with specifying new hardware to meet a given capacity need. It also makes it easy to model different scenarios by turning on and off various new workloads/projects to see how different combinations will affect the numbers.
